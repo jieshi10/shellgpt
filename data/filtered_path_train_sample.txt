@@ -1,0 +1,11 @@
+{"x": ["cd scripts", "vi bootstrap.sh"], "y": "vi scripts/bootstrap.sh"}
+{"x": ["cd ..", "cd release_notes"], "y": "cd  ../release_notes/"}
+{"x": ["cd /etc", "cd nginx"], "y": "cd /etc/nginx/"}
+{"x": ["cd /proc", "cd driver", "cd nvidia", "cat version"], "y": "cat /proc/driver/nvidia/version"}
+{"x": ["cd /etc", "cat resolv.conf | grep 'nameserver'"], "y": "cat /etc/resolv.conf | grep 'nameserver'"}
+{"x": ["cd /etc", "cat resolv.conf"], "y": "cat /etc/resolv.conf"}
+{"x": ["cd /proc", "cat version"], "y": "cat /proc/version"}
+{"x": ["cd ~", "vim .condarc"], "y": "vim ~/.condarc"}
+{"x": ["cd ~", "vim .bashrc"], "y": "vim ~/.bashrc"}
+{"x": ["cd /usr", "cd local", "cd cuda", "cat version.txt"], "y": "cat  /usr/local/cuda/version.txt"}
+{"x": ["cd /etc", "cat cpuinfo"], "y": "cat /etc/cpuinfo"}

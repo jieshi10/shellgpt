@@ -1,0 +1,18 @@
+rm =r build
+rm -r build
+
+git checkout --readme.txt
+git checkout --readme.txt
+
+docker rm -g $(docker ps -aq)
+docker rm -f $(docker ps -aq)
+
+sudo docker ps 0a
+sudo docker ps -a
+
+pip install --upgrace pip
+pip install --upgrade pip
+
+g++ main.cpp plpthread -O2
+g++ main.cpp -lpthread -O2
+

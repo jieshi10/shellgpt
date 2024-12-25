@@ -1,0 +1,19 @@
+cd go/
+ls
+cd src/
+
+pstree -ap|grep gunicorn
+gunicorn -w 50 -b 0.0.0.0:5000 server:app
+source venv/bin/activate
+gunicorn -w 50 -b 0.0.0.0:5000 server:app
+pstree -ap|grep gunicorn
+
+ls
+cd src
+ls
+cd GraphGAN/
+conda activate tf
+
+nohup python3 graph_gan.py  > de.log 2>&1 &
+cat de.log
+

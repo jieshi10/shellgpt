@@ -1,0 +1,22 @@
+<explain>docker version<explain>docker<explain>System tray for KDE3/GNOME2 docklet applications</s>
+<explain>docker version<explain>version<explain>UNKNOWN</s>
+<explain>ls -home<explain>ls<explain>list directory contents</s>
+<explain>ls -home<explain>-h<explain>-h, --human-readable with -l, print sizes in human readable format (e.g., 1K 234M 2G)</s>
+<explain>ls -home<explain>o<explain>-o like -l, but do not list group information</s>
+<explain>ls -home<explain>m<explain>-m fill width with a comma separated list of entries</s>
+<explain>ls -home<explain>e<explain>UNKNOWN</s>
+<explain>ls home<explain>ls<explain>list directory contents</s>
+<explain>ls home<explain>home<explain>List information about the FILEs (the current directory by default). Sort entries alphabetically if none of -cftuvSUX nor --sort is specified.</s>
+<explain>ls /home<explain>ls<explain>list directory contents</s>
+<explain>ls /home<explain>/home<explain>List information about the FILEs (the current directory by default). Sort entries alphabetically if none of -cftuvSUX nor --sort is specified.</s>
+<explain>ls<explain>ls<explain>list directory contents</s>
+<explain>docker<explain>docker<explain>System tray for KDE3/GNOME2 docklet applications</s>
+<explain>su root<explain>su<explain>change user ID or become superuser</s>
+<explain>su root<explain>root<explain>Additional arguments may be provided after the username, in which case they are supplied to the user's login shell. In particular, an argument of -c will cause the next argument to be treated as a command by most command interpreters. The command will be executed by the shell specified in /etc/passwd for the target user.</s>
+<explain>docker<explain>docker<explain>System tray for KDE3/GNOME2 docklet applications</s>
+<explain>docker -version<explain>docker<explain>System tray for KDE3/GNOME2 docklet applications</s>
+<explain>docker -version<explain>-version<explain>UNKNOWN</s>
+<explain>docker version<explain>docker<explain>System tray for KDE3/GNOME2 docklet applications</s>
+<explain>docker version<explain>version<explain>UNKNOWN</s>
+<explain>su root<explain>su<explain>change user ID or become superuser</s>
+<explain>su root<explain>root<explain>Additional arguments may be provided after the username, in which case they are supplied to the user's login shell. In particular, an argument of -c will cause the next argument to be treated as a command by most command interpreters. The command will be executed by the shell specified in /etc/passwd for the target user.</s>

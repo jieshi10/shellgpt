@@ -1,0 +1,11 @@
+docker version
+ls -home
+ls home
+ls /home
+ls
+docker
+su root
+docker
+docker -version
+docker version
+su root
